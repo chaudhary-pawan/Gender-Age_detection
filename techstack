@@ -1,7 +1,9 @@
-# Technologies Used
-## Library	Purpose
-numpy	         -->       Data generation and numerical operations
-pandas	       -->       Structured data storage
-matplotlib	   -->       Plotting results (if extended)
-seaborn	       -->       Statistical plots
-scikit-learn	 -->      Feature engineering, model training
+## 🧪 Technologies Used
+
+| Library       | Purpose                                      |
+|---------------|----------------------------------------------|
+| `numpy`       | Data generation, math operations             |
+| `pandas`      | Data manipulation                            |
+| `scikit-learn`| Machine learning models, scaling             |
+| `matplotlib`  | Data visualization                           |
+| `seaborn`     | Statistical plots                            |
