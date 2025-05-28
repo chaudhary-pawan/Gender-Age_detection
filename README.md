@@ -57,6 +57,6 @@ Users interact through a simple terminal-based CLI where they input their measur
 ## 💾 Installation
 
 ```bash
-git clone https://github.com/yourusername/gender-age-detection.git
-cd gender-age-detection
+git clone https://github.com/chaudhary-pawan/Gender-Age_detection
+cd Gender-Age_detection
 pip install -r requirements.txt
