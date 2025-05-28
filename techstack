@@ -1,9 +1,0 @@
-## 🧪 Technologies Used
-
-| Library       | Purpose                                      |
-|---------------|----------------------------------------------|
-| `numpy`       | Data generation, math operations             |
-| `pandas`      | Data manipulation                            |
-| `scikit-learn`| Machine learning models, scaling             |
-| `matplotlib`  | Data visualization                           |
-| `seaborn`     | Statistical plots                            |
