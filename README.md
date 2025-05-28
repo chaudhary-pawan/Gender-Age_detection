@@ -34,18 +34,11 @@ Users interact through a **terminal-based CLI**, where they input their physical
 
 ## 🚀 Project Highlights
 
-✅ **No Deep Learning Libraries** – Uses basic libraries only (no OpenCV, Keras, TensorFlow)  
+✅ **No Deep Learning Libraries** – Uses basic libraries only  
 ✅ **Synthetic Dataset Generation** – No external datasets required  
 ✅ **Terminal-based Interactive CLI**  
 ✅ **Advanced Feature Engineering** – Polynomial features + custom ratios  
 ✅ **Random Forest Classifiers** for gender and age prediction  
 ✅ **Confidence Scores** included in prediction results
 
----
 
-## 🛠 Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/gender-age-detector.git
-   cd gender-age-detector
