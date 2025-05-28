@@ -1,0 +1,11 @@
+
+
+# 🛠 Installation
+
+1. https://github.com/chaudhary-pawan/Gender-Age_detection/new/main
+cd main.py
+pip install -r requirements.txt
+
+# Install required packages
+2. pip install numpy pandas matplotlib seaborn scikit-learn
+
