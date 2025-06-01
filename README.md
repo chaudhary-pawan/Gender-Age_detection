@@ -43,14 +43,14 @@ Users interact through a simple terminal-based CLI where they input their measur
 ## 📸 Results Sample
 
 ### Input CLI
-![Input CLI](main/Screenshot%202025-05-28%20121746.png)
+![Input CLI](screenshots/1.png)
 
-![Input CLI](main/Screenshot%202025-05-28%20121757.png)
+![Input CLI](screenshots/2.png)
 
-![Input CLI](main/Screenshot%202025-05-28%20121809.png)
+![Input CLI](screenshots/3.png)
 
 ### Processed Results Display
-![Summary](main/Screenshot%202025-05-28%20121841.png)
+![Summary](screenshots/4.png)
 
 ---
 
